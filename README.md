@@ -34,3 +34,5 @@ Courtesy of [Vikas Rai](https://github.com/raiv200)
 QUALQUER COISA NOVA
 
 CORRECAO DE BUG
+
+CORRIGINDO BUG --- > COMMIT COM ACTION ATIVADO
